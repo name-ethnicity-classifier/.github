@@ -1,6 +1,19 @@
 # name ethnicity classifier
 
-This GitHub organization contains research experiments, a console interface classifier and the web client of a soon available webapp.
+## What's in this organization?
+This GitHub organization contains research experiments, a console interface classifier and the codebase for the name-ethnicity-classifier webapp.
+
+## The CLI classifier:
+Using the [name-ethnicity-classification](https://github.com/name-ethnicity-classifier/name-ethnicity-classification) repository you can classify names into their ethnicities.
+There a a few models for selection which are trained on different nationalities. If you want a specific nationality configuration, feel free to write an issue and we might train it for you. Since the dataset is private you can't train models on your own.
+
+## The research:
+Using the [name-ethnicity-classification](https://github.com/name-ethnicity-classifier/name-ethnicity-classification) repository you can classify names into their ethnicities.
+There a a few models for selection which are trained on different nationalities. If you want a specific nationality configuration, feel free to write an issue and we might train it for you. Since the dataset is private you can't train models on your own.
+
+## The webapp:
+Using the [name-ethnicity-classification](https://github.com/name-ethnicity-classifier/name-ethnicity-classification) repository you can classify names into their ethnicities.
+There a a few models for selection which are trained on different nationalities. If you want a specific nationality configuration, feel free to write an issue and we might train it for you. Since the dataset is private you can't train models on your own.
 
 <!--
 
