@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/.github/profile/nec_logo.png" />
+  <img src="nec_logo.png" />
 </p>
 
 
@@ -18,14 +18,3 @@ Name ethnicity classification can be a useful tool, especially for social scienc
 ## 🖥️ The webapp:
 As the dataset is private and therefore cloners can't train custom ethnicity classifiers themselves, we still want to enable that option using a non-profit webapp.
 You will be able to choose the nationalities you need and request a model which we will automatically train for you. You can then upload names in a .csv file, classify them and download the results.
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
