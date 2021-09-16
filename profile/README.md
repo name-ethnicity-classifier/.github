@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="nec_logo.png" />
+  <img src="https://github.com/name-ethnicity-classifier/.github/blob/main/profile/nec_logo.png" />
 </p>
 
 
