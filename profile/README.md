@@ -1,4 +1,6 @@
-## Hi there 👋
+# name ethnicity classifier
+
+This GitHub organization contains research experiments, a console interface classifier and the web client of a soon available webapp.
 
 <!--
 
