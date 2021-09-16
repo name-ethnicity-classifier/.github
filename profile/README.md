@@ -1,4 +1,4 @@
-![logo](nec_final_logo_img.png)
+![logo](nec_logo.png)
 
 # name ethnicity classifier
 
