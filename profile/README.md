@@ -1,4 +1,7 @@
-![logo](nec_logo.png)
+<p align="center">
+  <img src="nec_logo.png" />
+</p>
+
 
 # name ethnicity classifier
 
