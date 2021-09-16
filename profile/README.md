@@ -13,7 +13,7 @@ Using the [name-ethnicity-classification](https://github.com/name-ethnicity-clas
 You can choose between models that are trained on different nationality configurations. Since the dataset is private, you can't train models on your own. Therefore, if you want to classify between specific nationalities, feel free to write an issue, and we might train it for you. You can also wait for our webapp to go live soon!
 
 ## 🌈 Research:
-Name ethnicity classification can be a useful tool, especially for social science research. Interpreting findings in a dataset containing the name and other information about persons but not their nationalities can lead to the fact that existing coherences based on their background are not recognized. But since this classification problem is highly dependent on the dataset, there might be certain biases in gender, age and race. We seek to detect and compare such biases in different existing name ethnicity/nationality classifiers (like ours).
+Name ethnicity classification can be a useful tool, especially for social science research. Interpreting findings in a dataset containing the name and other information about persons but not their nationalities can lead to the fact that existing coherences based on their background are not recognized. And since this classification problem is highly dependent on the dataset, there might occur biases in gender, age and race in the models. We seek to identify and compare such biases in different existing name ethnicity/nationality classifiers (like ours).
 
 ## 🖥️ The webapp:
 As the dataset is private and therefore cloners can't train custom ethnicity classifiers themselves, we still want to enable that option using a non-profit webapp.
