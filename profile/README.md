@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="nec_logo.png" />
+  <img src="/.github/profile/nec_logo.png" />
 </p>
 
 
