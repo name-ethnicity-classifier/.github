@@ -3,7 +3,7 @@
 </p>
 
 
-# name ethnicity classifier
+# Name ethnicity classifier
 
 ## :earth_africa: What's this organization?
 This GitHub organization contains research experiments, a console interface classifier and the codebase for the name-ethnicity-classifier webapp.
