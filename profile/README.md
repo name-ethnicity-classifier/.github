@@ -5,7 +5,7 @@
 
 # Name ethnicity classifier
 
-## :earth_africa: What's in this organization?
+## :earth_africa: What's this organization about?
 This GitHub organization contains research experiments, a console interface classifier and the codebase for the name-ethnicity-classifier webapp.
 
 ## 👨🏽‍💻 The CLI classifier:
