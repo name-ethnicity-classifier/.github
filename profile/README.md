@@ -8,7 +8,7 @@
 ## :earth_africa: What's this organization about?
 This GitHub organization contains research experiments, a console interface classifier and the codebase for the name-ethnicity-classifier webapp.
 
-## 🖥️🏽‍💻 The CLI classifier:
+## 🖥️ The CLI classifier:
 Using the [name-ethnicity-classifier](https://github.com/name-ethnicity-classifier/name-ethnicity-classifier) repository, you can classify names into their ethnicities.
 You can choose between models that are trained on different nationality configurations. Since the dataset is private, you can't train models on your own. Therefore, if you want to classify between specific nationalities, feel free to write an issue, and we might train it for you. You can also wait for our webapp to go live soon!
 
