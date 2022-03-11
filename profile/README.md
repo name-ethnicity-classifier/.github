@@ -5,7 +5,7 @@
 
 # Name ethnicity classifier
 
-[website](https://www.name-to-ethnicity.com)
+[our website](https://www.name-to-ethnicity.com)
 
 ## :earth_africa: What's this organization about?
 This GitHub organization contains research experiments, a console interface classifier and the codebase for the name-ethnicity-classifier webapp.
@@ -18,5 +18,6 @@ You can choose between models that are trained on different nationality configur
 Name ethnicity classification can be a useful tool, especially for social science research. Interpreting findings in a dataset containing the name and other information about persons but not their nationalities can lead to the fact that existing coherences based on their background are not recognized. And because this classification problem is highly dependent on the dataset, there may be biases in the models with respect to gender, age, and race. We seek to identify and compare such biases in different existing name ethnicity/nationality classifiers (like ours).
 
 ## ☁️ The webapp:
+The webapp is now live at https://www.name-to-ethnicity.com!
 As the dataset is private and therefore cloners can't train custom ethnicity classifiers themselves, we still want to enable that option using a non-profit webapp.
 You will be able to choose the nationalities you need and request a model which we will automatically train for you. You can then upload names in a .csv file, classify them and download the results.
