@@ -5,7 +5,7 @@
 
 # Name ethnicity classifier
 
-[our website](https://www.name-to-ethnicity.com)
+[our website](https://www.name-to-ethnicity.com) (currently down due to maintenance)
 
 ## :earth_africa: What's this organization about?
 This GitHub organization contains research experiments, a console interface classifier and the codebase for the name-ethnicity-classifier webapp.
