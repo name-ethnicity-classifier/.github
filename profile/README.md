@@ -3,7 +3,7 @@
 </p>
 
 
-# Name Ethnicity Classifier Project
+# Name-to-Ethnicity
 
 ## 🔎 About:
 
