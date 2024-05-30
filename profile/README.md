@@ -18,14 +18,13 @@ Using the [name-ethnicity-classifier](https://github.com/name-ethnicity-classifi
 You can choose between models that are trained on different nationality configurations. Since the dataset is private, you can't train models on your own. Therefore, if you want to classify between specific nationalities, feel free to write an issue, and we might train it for you. You can also use [www.name-to-ethnicity.com](https://www.name-to-ethnicity.com) to request custom models for free.
 
 #### ☁️ The webapp:
-###### ✨ [www.name-to-ethnicity.com](https://www.name-to-ethnicity.com) ✨
 As the dataset is private and therefore you can't train custom ethnicity classifiers yourself, we still want to enable that option using a non-profit webapp.
 You will be able to choose the nationalities you need and request a model, which we will automatically train for you. You can then upload names in a .csv file or use the API to classify them.
+###### ✨ [www.name-to-ethnicity.com](https://www.name-to-ethnicity.com) ✨
 
 #### ❤️ Consider donating!
 If you find our tool useful, please consider donating any amount to help us cover our server and maintenance fees, which we currently pay out of our own pockets. But we're also thrilled if you simply let us know that our tool contributed to your project—whether through a star on GitHub or a quick email!
-
-👉 https://www.buymeacoffee.com/theodorpeih
+###### 👉 https://www.buymeacoffee.com/theodorpeih
 
 ---
 
